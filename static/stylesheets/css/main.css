@@ -1,0 +1,45 @@
+.menuBtn {
+  position: fixed;
+  left: 0%;
+  top: 48%;
+  transform: rotate(90deg);
+  opacity: 0.7;
+  z-index: +10;
+}
+
+.menuBtn.open {
+  position: fixed;
+  opacity: 0;
+}
+
+.closeBtn {
+  position: fixed;
+  opacity: 0;
+}
+
+.closeBtn.open {
+  position: fixed;
+  opacity: 1;
+  position: fixed;
+  left: 6rem;
+  top: 48%;
+  transform: rotate(90deg);
+  z-index: +2;
+}
+
+.menu {
+  position: fixed;
+  left: -20rem;
+  top: 40%;
+  position: fixed;
+  opacity: 0;
+}
+
+.menu.open {
+  position: fixed;
+  left: 0.5rem;
+  top: 40%;
+  position: fixed;
+  z-index: +1;
+  opacity: 1;
+}
