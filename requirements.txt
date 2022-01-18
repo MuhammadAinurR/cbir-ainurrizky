@@ -1,0 +1,8 @@
+Flask==2.0.2
+gunicorn==20.1.0
+numpy==1.21.4
+opencv-python==4.5.4.58
+Pillow==8.4.0
+scipy==1.7.2
+Keras
+tensorflow-cpu
