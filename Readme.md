@@ -1,1 +1,1 @@
-Tugas CBIR will uploaded soon
+Deployed on https://cbir-ainurrizky.herokuapp.com/
